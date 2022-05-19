@@ -1,0 +1,3 @@
+This is a VSCODE based MAVEN project with junit depedencies
+	1.)The files are named ConnectFourDriver and 
+		ConnectFourDriverTest respectively  under package game in src/main/java/game and src/test/java/game	
